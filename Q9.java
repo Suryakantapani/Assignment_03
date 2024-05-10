@@ -1,6 +1,6 @@
 package Assignment_03;
 
-public class Q_9 {
+public class Q9 {
 	static void reverse(int n) {
 		if(n>=0 && n<=9) {
 			System.out.print(n);
@@ -13,5 +13,4 @@ public class Q_9 {
 		int x=4735;
 		reverse(x);
 	}
-
 }
