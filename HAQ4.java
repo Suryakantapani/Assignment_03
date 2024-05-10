@@ -8,9 +8,8 @@ public class HAQ4 {
 		return x+product(x,y-1);
 	}
 	public static void main(String []args){
-	int x=4;
-	int y=5;
-	System.out.println(product(x,y));
-}
-
+		int x=4;
+		int y=5;
+		System.out.println(product(x,y));
+        }     
 }
