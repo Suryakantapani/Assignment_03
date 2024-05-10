@@ -8,9 +8,7 @@ public class Q8 {
 		
 		return x*pow(x,n-1);
 	}
-public static void main(String[]args) {
-	System.out.println(pow(5,2));
-			
-		
+	public static void main(String[]args) {
+		System.out.println(pow(5,2));	
 	}
 }
