@@ -6,10 +6,9 @@ public class Q7 {
 		}
 		return n*fact(n-1);
 	}
+	
 	public static void main(String []args){
 		int x=5;
 		System.out.println(fact(x));
-		
 	}
-
 }
